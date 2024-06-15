@@ -79,3 +79,9 @@ Coloca el archivo datos.csv y la plantilla plantilla.docx en el mismo directorio
 
 Ejecuta la aplicación.
 Los documentos generados se guardarán en el mismo directorio que elijas, utilizando los valores de la primera columna en este caso (DNI) como nombre de archivo.
+
+
+----------------------------------------------------------------------------------------------------------
+
+Version portable: no requiere instalacion alguna, solo descargar y ejecutar
+https://drive.google.com/file/d/1LO3JahESGFKActvr2qc6q5qtY5a6bdW4/view?usp=sharing
